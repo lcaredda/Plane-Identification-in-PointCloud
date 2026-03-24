@@ -13,7 +13,7 @@ The project is implemented in Python and consists of two main scripts:
 ## Data Source
 The LiDAR data used in this project comes from open-source datasets provided by IGN.
 
-https://cartes.gouv.fr/telechargement/IGNF_NUAGES-DE-POINTS-LIDAR-HD (web link tested on the 24 march 2026)
+https://cartes.gouv.fr/telechargement/IGNF_NUAGES-DE-POINTS-LIDAR-HD (web link tested on 24 march 2026)
 
 ## Programation Language and Libraries used
   Python :
