@@ -1,11 +1,11 @@
-# Research Project M2 — Plane Identification in Point Clouds
+# Research Project M2 — Plane Identification of Rooftops from LiDAR data in France
 
-This repository contains the work I carried out during the first semester of my Master's (M2), focused on **plane identification in point clouds** using open-source LiDAR data from IGN.
+This repository contains the work I carried out during my Master degree, focused on **plane identification in point clouds** using open-source LiDAR data from IGN.
 
 The project is implemented in Python and consists of two main scripts:
 
 - **Plane detection on real data**:  
-  This script detects planes from LiDAR point cloud tiles covering 1 km² areas.
+  This script detects planes from LiDAR point cloud tiles covering 1 km² areas in France.
 
 - **Algorithm robustness testing**:  
   This script evaluates the robustness of the detection algorithms using a generated point clouds with variable parameters.
@@ -17,7 +17,7 @@ https://cartes.gouv.fr/telechargement/IGNF_NUAGES-DE-POINTS-LIDAR-HD (web link t
 
 ## Utilisation
 
-For practical reasons, the code has been adapted to run on **Google Colab**. Therefore, the only data you will need to download locally to test the code is a LiDAR file of type `.laz` containing a raw point cloud of 1 km².
+For practical reasons, the code has been adapted to run on **Google Colab**. Therefore, to test the code, the only data you will need to download locally is a LiDAR file of type `.laz` containing a raw point cloud of 1 km².
 
 Visualization of the point cloud using **Open3D** is not supported in Google Colab, so some adaptations have been made to make the execution possible. As a result, you may notice some differences between the original Python script and the Colab notebook. In Colab, point cloud visualization will be performed using **Plotly**.
 
