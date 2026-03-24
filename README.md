@@ -36,7 +36,10 @@ Once on the website, select a tile where **buildings are visible** and download 
 
 You should obtain a  `.laz` file
 
+
 **Point CLoud Classification done by the IGN**
+
 <img width="601" height="246" alt="image" src="https://github.com/user-attachments/assets/3c57e7f5-b711-4d83-b1b5-260aa5dbf21c" />
+
 source : https://geoservices.ign.fr/sites/default/files/2025-03/DC_LiDAR_HD_1-0.pdf
 
