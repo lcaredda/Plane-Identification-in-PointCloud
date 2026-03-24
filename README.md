@@ -34,27 +34,3 @@ Once on the website, select a tile where buildings are visible and download it.
 
 <img width="1915" height="847" alt="image" src="https://github.com/user-attachments/assets/664cb6ea-9ed9-43ff-8919-fa7e9825b68a" />
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Auto Open Link</title>
-  <script>
-    window.onload = function() {
-      // Try to open the link in a new tab
-      var newTab = window.open("https://cartes.gouv.fr/telechargement/IGNF_NUAGES-DE-POINTS-LIDAR-HD", "_blank");
-      
-      // If blocked, show a clickable fallback
-      if (!newTab) {
-        document.getElementById("fallback").style.display = "block";
-      }
-    };
-  </script>
-</head>
-<body>
-  <p id="fallback" style="display:none;">
-    Your browser blocked the automatic opening. Click 
-    <a href="https://cartes.gouv.fr/telechargement/IGNF_NUAGES-DE-POINTS-LIDAR-HD" target="_blank">here</a> to open manually.
-  </p>
-</body>
-</html>
