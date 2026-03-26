@@ -2,7 +2,7 @@
 
 **Last update:** 26/03/2026
 
-This repository contains the work I carried out during my Master's degree, focused on **plane identification in point clouds** using open-source LiDAR data from [IGN](https://www.ign.fr/](https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_NUAGES-DE-POINTS-LIDAR-HD).
+This repository contains the work I carried out during my Master's degree, focused on **plane identification in point clouds** using open-source LiDAR data from IGN.
 
 The project is implemented in Python and consists of two main scripts:
 
@@ -38,7 +38,7 @@ The following instructions assume you are testing the code on Google Colab. You 
 
 ---
 
-## 1️⃣ First Step — Setup
+## Setup Instruction
 
 ### 📥 Download LiDAR Data
 1. Upload the `.laz` file you downloaded from IGN to your Google Colab instance.
@@ -49,6 +49,8 @@ The following instructions assume you are testing the code on Google Colab. You 
 
 You should obtain a `.laz` file.
 
+
+Once your file downloaded you can open the script on Colab
 ### 📊 Point Cloud Classification (IGN)
 ![IGN Point Cloud Classification](https://github.com/user-attachments/assets/3c57e7f5-b711-4d83-b1b5-260aa5dbf21c)
 
