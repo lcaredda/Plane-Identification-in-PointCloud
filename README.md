@@ -50,7 +50,7 @@ The following instructions assume you are testing the code on Google Colab. You 
 You should obtain a `.laz` file.
 
 
-Once your file downloaded you can open the script on Colab
+Once your file downloaded you can open the script on Colab via the button "Open in Colab"
 ### 📊 Point Cloud Classification (IGN)
 ![IGN Point Cloud Classification](https://github.com/user-attachments/assets/3c57e7f5-b711-4d83-b1b5-260aa5dbf21c)
 
