@@ -69,4 +69,4 @@ We will directly takes only relevant points belonging to building by filtering w
 📊 ***Point Cloud Classification (IGN)***
 ![IGN Point Cloud Classification](https://github.com/user-attachments/assets/3c57e7f5-b711-4d83-b1b5-260aa5dbf21c)
 
-**Source:** [IGN LiDAR HD Documentation (PDF)](https://geoservices.ign.fr/sites/default/files/2025-03/DC_LiDAR_HD_1-0.pdf)
+**Source working on 26/03/2026:** [IGN LiDAR HD Documentation (PDF)](https://geoservices.ign.fr/sites/default/files/2025-03/DC_LiDAR_HD_1-0.pdf)
