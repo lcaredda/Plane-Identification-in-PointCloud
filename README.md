@@ -34,9 +34,8 @@ To test the code, the only data you need to download locally is a LiDAR file of 
 ## Setup Instruction
 
 ### 📥 Download LiDAR Data
-1. Upload the `.laz` file you downloaded from IGN to your Google Colab instance.
-2. Download the file from the [IGN LiDAR HD Point Clouds](https://cartes.gouv.fr/telechargement/IGNF_NUAGES-DE-POINTS-LIDAR-HD) website.
-3. Select a tile where **buildings are visible** and download it.
+1. Go on the [IGN LiDAR HD Point Clouds](https://cartes.gouv.fr/telechargement/IGNF_NUAGES-DE-POINTS-LIDAR-HD) website.
+2. Select a tile where **buildings are visible** and download it.
 
 ![IGN LiDAR Tile Selection](https://github.com/user-attachments/assets/664cb6ea-9ed9-43ff-8919-fa7e9825b68a)
 
